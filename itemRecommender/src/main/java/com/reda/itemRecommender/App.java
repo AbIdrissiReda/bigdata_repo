@@ -1,4 +1,4 @@
-package reda.itemRecomander;
+package com.reda.itemRecommender;
 
 import java.io.File;
 import java.util.List;
